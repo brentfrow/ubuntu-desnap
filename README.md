@@ -1,4 +1,4 @@
-# Ubuntu Desnapified! 
+# Ubuntu Desnapified! + My Ubuntu Remix
 
 This project is based and improved upon [Ubuntu Remixes](https://gitlab.com/ubuntu-unity/ubuntu-remixes).
 
