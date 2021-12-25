@@ -1,6 +1,7 @@
 # Ubuntu Desnapified! + My Ubuntu Remix
 
 This project is based and improved upon [Ubuntu Remixes](https://gitlab.com/ubuntu-unity/ubuntu-remixes).
+I forked it from https://github.com/vega-d/ubuntu-desnap to create my own custom Ubuntu iso
 
 To remix an iso you need `mtools` and `xorriso`: 
 ```sudo apt install mtools xorriso```
